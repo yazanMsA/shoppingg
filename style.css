@@ -825,8 +825,8 @@
   }
   .fd .in {
     position: absolute;
-    left: 34%;
-    top: 38px;
+    left: 33%;
+    top: 46px;
     width: 48%;
     height: 35%;
     border-radius: 10px;
@@ -845,7 +845,7 @@
   .fd .u1 {
     position: absolute;
     left: 2%;
-    bottom: 2%;
+    bottom: -2%;
   }
   .fd .u1 .l1 {
     display: inline-block;
