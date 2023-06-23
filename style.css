@@ -849,7 +849,7 @@
   }
   .fd .u1 .l1 {
     display: inline-block;
-    padding: 15px;
+    padding: 8px;
     color: white;
     font-family: weight;
     font-size: 20px;
@@ -885,17 +885,17 @@
   }
   .father .fh6 {
     position: absolute;
-    top: 50%;
+    top: 53%;
     left: 7%;
     color: black;
     font-weight: bold;
     font-size: 25px;
   }
   .father .b1 {
-    width: 28%;
+    width: 40;
     height: 10%;
     position: absolute;
-    top: 75%;
+    top: 72%;
     left: 7%;
     font-size: 23px;
   }
@@ -916,6 +916,7 @@
   .bigD .ca-s .c-item {
     height: 600px;
     width: 100%;
+    background-color: red;
   }
   .bigD .ca-s .c-item .fh3, .bigD .ca-s .c-item .sh3 {
     position: absolute;
