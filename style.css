@@ -1,0 +1,1347 @@
+@media screen and (min-width: 1000px) {
+  .fd {
+    width: 100%;
+    height: 120px;
+    background-color: #120052;
+    position: relative;
+    border: 1px solid black;
+  }
+  .fd .fh1 {
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    color: white;
+  }
+  .fd .in {
+    position: absolute;
+    left: 27%;
+    top: 20%;
+    width: 48%;
+    height: 25%;
+    border-radius: 10px;
+  }
+  .fd .im {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: white;
+    border-radius: 10px;
+  }
+  .fd .u1 {
+    position: absolute;
+    left: 2%;
+    bottom: -15%;
+  }
+  .fd .l1 {
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    font-family: weight;
+    font-size: 18px;
+  }
+  .father {
+    width: 95%;
+    height: 460px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border: 4px solid #120052;
+    border-radius: 15px;
+  }
+  .father .im1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+  }
+  .father .sh1 {
+    position: absolute;
+    top: 15%;
+    left: 7%;
+    color: white;
+  }
+  .father .th1 {
+    position: absolute;
+    top: 27%;
+    left: 7%;
+    color: white;
+  }
+  .father .fh6 {
+    position: absolute;
+    top: 53%;
+    left: 7%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .father .b1 {
+    width: 10%;
+    height: 10%;
+    position: absolute;
+    top: 62%;
+    left: 7%;
+  }
+  .bigD {
+    width: 95%;
+    height: 540px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border-radius: 15px;
+  }
+  .bigD .ca-s {
+    width: 23%;
+    height: 100%;
+    position: absolute;
+    left: 0%;
+    background-color: #420a77;
+    border-radius: 15px;
+  }
+  .bigD .ca-s .c-item {
+    height: 540px;
+    width: 100%;
+  }
+  .bigD .ca-s .c-item .fh3, .bigD .ca-s .c-item .sh3 {
+    position: absolute;
+    top: 2%;
+  }
+  .bigD .ca-s .c-item .fh3 {
+    position: absolute;
+    left: 5%;
+    color: white;
+  }
+  .bigD .ca-s .c-item .sh3 {
+    position: absolute;
+    right: 5%;
+  }
+  .bigD .ca-s .c-item .fh5 {
+    position: absolute;
+    bottom: 8%;
+    left: 5%;
+    color: white;
+  }
+  .bigD .ca-s .c-item .d_stars {
+    width: 80%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    bottom: 4%;
+    left: 5%;
+  }
+  .bigD .ca-s .c-item .d_stars .im_stars {
+    width: 25px;
+    height: 25px;
+  }
+  .bigD .ca-s .c-item .pric, .bigD .ca-s .c-item .secPr {
+    position: absolute;
+    bottom: -3%;
+  }
+  .bigD .ca-s .c-item .pric {
+    position: absolute;
+    left: 5%;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+  }
+  .bigD .ca-s .c-item .secPr {
+    position: absolute;
+    right: 5%;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+  }
+  .bigD .ca-s .c-img {
+    height: 75%;
+    width: 100%;
+    position: absolute;
+    top: 9%;
+  }
+  .bigD .ca-s .bt1 {
+    background-color: #120052;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 42%;
+  }
+  .bigD .bigS {
+    width: 75%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    background-color: white;
+    border-radius: 15px;
+    border: 4px solid #420a77;
+    display: flex;
+  }
+  .bigD .bigS .box1 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    left: 0.5%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigD .bigS .box1 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigD .bigS .box1 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigD .bigS .box1 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigD .bigS .box1 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigD .bigS .box1 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigD .bigS .box1 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigD .bigS .box1 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigD .bigS .box1 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigD .bigS .box2 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    left: 34%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigD .bigS .box2 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigD .bigS .box2 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigD .bigS .box2 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigD .bigS .box2 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigD .bigS .box2 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigD .bigS .box2 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigD .bigS .box2 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigD .bigS .box2 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigD .bigS .box3 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    right: 0.5%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigD .bigS .box3 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigD .bigS .box3 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigD .bigS .box3 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigD .bigS .box3 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigD .bigS .box3 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigD .bigS .box3 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigD .bigS .box3 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigD .bigS .box3 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .father22 {
+    width: 95%;
+    height: 480px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border-radius: 15px;
+    border: 4px solid #120052;
+  }
+  .father22 .father2 {
+    width: 68%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    background-color: white;
+    border-radius: 15px;
+    border: 0px;
+  }
+  .father22 .father2 .im2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+  }
+  .father22 .im3 {
+    width: 30%;
+    height: 100%;
+    border-radius: 15px;
+    position: absolute;
+    left: 0%;
+  }
+  .bigDD {
+    width: 95%;
+    height: 540px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border-radius: 15px;
+  }
+  .bigDD .one {
+    width: 23%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    left: 0%;
+    border-radius: 15px;
+    border: 4px solid #120052;
+  }
+  .bigDD .one .onn, .bigDD .one .onn1 {
+    position: absolute;
+    top: 3%;
+  }
+  .bigDD .one .onn {
+    position: absolute;
+    left: 5%;
+  }
+  .bigDD .one .onn1 {
+    position: absolute;
+    right: 5%;
+  }
+  .bigDD .one .on1 {
+    position: absolute;
+    top: 10%;
+  }
+  .bigDD .one .on2 {
+    position: absolute;
+    top: 40%;
+    background-color: white;
+    width: 100%;
+    height: 30%;
+  }
+  .bigDD .one .on2 .oim1 {
+    width: 55%;
+    height: 100%;
+  }
+  .bigDD .one .on2 .o1 {
+    position: absolute;
+    right: 5%;
+    top: 10%;
+  }
+  .bigDD .one .on2 .vsm {
+    width: 45%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 0%;
+    top: 35%;
+  }
+  .bigDD .one .on2 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on2 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 15%;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .one .on3 {
+    position: absolute;
+    bottom: 0%;
+    background-color: white;
+    width: 100%;
+    height: 30%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+  .bigDD .one .on3 .oim1 {
+    width: 55%;
+    height: 100%;
+    border-bottom-left-radius: 15px;
+  }
+  .bigDD .one .on3 .o1 {
+    position: absolute;
+    right: 5%;
+    top: 10%;
+  }
+  .bigDD .one .on3 .vsm {
+    width: 45%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 0%;
+    top: 35%;
+  }
+  .bigDD .one .on3 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on3 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 15%;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .one .on1 {
+    width: 100%;
+    height: 30%;
+    background-color: white;
+  }
+  .bigDD .one .on1 .oim1 {
+    width: 55%;
+    height: 100%;
+  }
+  .bigDD .one .on1 .o1 {
+    position: absolute;
+    right: 5%;
+    top: 10%;
+  }
+  .bigDD .one .on1 .vsm {
+    width: 45%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 0%;
+    top: 35%;
+  }
+  .bigDD .one .on1 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on1 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 15%;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS {
+    width: 75%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    background-color: white;
+    border-radius: 15px;
+    border: 4px solid #420a77;
+    display: flex;
+  }
+  .bigDD .bigS .box1 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    left: 0.5%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigDD .bigS .box1 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigDD .bigS .box1 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigDD .bigS .box1 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigDD .bigS .box1 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigDD .bigS .box1 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigDD .bigS .box1 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigDD .bigS .box1 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS .box1 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS .box2 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    left: 34%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigDD .bigS .box2 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigDD .bigS .box2 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigDD .bigS .box2 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigDD .bigS .box2 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigDD .bigS .box2 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigDD .bigS .box2 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigDD .bigS .box2 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS .box2 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS .box3 {
+    width: 32%;
+    height: 97%;
+    position: absolute;
+    top: 1.5%;
+    right: 0.5%;
+    border-radius: 15px;
+    background-color: #420a77;
+    display: inline-block;
+  }
+  .bigDD .bigS .box3 .b31 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    color: white;
+  }
+  .bigDD .bigS .box3 .b32 {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+  }
+  .bigDD .bigS .box3 .img1 {
+    width: 100%;
+    height: 73%;
+    position: absolute;
+    top: 10%;
+  }
+  .bigDD .bigS .box3 .b33 {
+    position: absolute;
+    bottom: 9%;
+    left: 5%;
+    color: white;
+  }
+  .bigDD .bigS .box3 .b34 {
+    width: 80%;
+    height: 30px;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    opacity: 1;
+  }
+  .bigDD .bigS .box3 .b34 .imgb {
+    width: 25px;
+    height: 25px;
+  }
+  .bigDD .bigS .box3 .b35 {
+    position: absolute;
+    left: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .bigDD .bigS .box3 .b36 {
+    position: absolute;
+    right: 5%;
+    bottom: -2%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .finall {
+    width: 100%;
+    height: 235px;
+    background-color: #120052;
+    color: white;
+    display: flex;
+    position: relative;
+  }
+  .finall .f1 {
+    width: 25%;
+    height: 100%;
+    display: inline-block;
+  }
+  .finall .f1 .prf1 {
+    font-size: 25px;
+  }
+  .finall .f1 .prf1 .sf1 {
+    color: yellowgreen;
+  }
+  .finall .f1 .prf1 .sf2 {
+    font-size: 18px;
+  }
+  .finall .f1 .imf1, .finall .f1 .imf2, .finall .f1 .imf3 {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    bottom: 7%;
+    color: white;
+    background-color: white;
+    border-radius: 10px;
+  }
+  .finall .f1 .imf1 {
+    position: absolute;
+    left: 5%;
+  }
+  .finall .f1 .imf2 {
+    position: absolute;
+    left: 10%;
+  }
+  .finall .f1 .imf3 {
+    position: absolute;
+    left: 15%;
+  }
+  .finall .f2 {
+    width: 25%;
+    height: 100%;
+    display: inline-block;
+    border-left: 2px solid white;
+  }
+  .finall .f2 .hf1 {
+    text-align: center;
+  }
+  .finall .f2 .uf1 {
+    list-style: none;
+    position: absolute;
+    left: 32%;
+    font-size: 18px;
+  }
+  .finall .f3 {
+    width: 25%;
+    height: 100%;
+    display: inline-block;
+    border-left: 2px solid white;
+  }
+  .finall .f3 .hf1 {
+    text-align: center;
+  }
+  .finall .f3 .uf2 {
+    list-style: none;
+    position: absolute;
+    left: 55%;
+    font-size: 18px;
+  }
+  .finall .f4 {
+    width: 25%;
+    height: 100%;
+    display: inline-block;
+    border-left: 2px solid white;
+  }
+  .finall .f4 .hf1 {
+    text-align: center;
+  }
+  .finall .f4 .prf2 {
+    font-size: 18px;
+  }
+  .ffinal {
+    display: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .fd {
+    width: 100%;
+    height: 120px;
+    background-color: #120052;
+    position: relative;
+  }
+  .fd .fh1 {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    color: white;
+  }
+  .fd .in {
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    width: 48%;
+    height: 35%;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .fd .im {
+    position: absolute;
+    top: 15%;
+    right: 5%;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: white;
+    border-radius: 10px;
+  }
+  .fd .u1 {
+    position: absolute;
+    left: 2%;
+    bottom: 5%;
+  }
+  .fd .u1 .l1 {
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    font-family: weight;
+    font-size: 20px;
+  }
+  .father {
+    width: 95%;
+    height: 500px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border: 2px solid #120052;
+    border-radius: 15px;
+  }
+  .father .im1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+  }
+  .father .sh1, .father .th1 {
+    font-size: 30px;
+  }
+  .father .sh1 {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    color: white;
+  }
+  .father .th1 {
+    position: absolute;
+    top: 32%;
+    left: 7%;
+    color: white;
+  }
+  .father .fh6 {
+    position: absolute;
+    top: 50%;
+    left: 7%;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .father .b1 {
+    width: 28%;
+    height: 10%;
+    position: absolute;
+    top: 75%;
+    left: 7%;
+    font-size: 23px;
+  }
+  .bigD {
+    width: 80%;
+    height: 600px;
+    background-color: #120052;
+    border-radius: 15px;
+    position: relative;
+    left: 10%;
+  }
+  .bigD .ca-s {
+    width: 600px;
+    height: 100%;
+    background-color: #120052;
+    border-radius: 15px;
+  }
+  .bigD .ca-s .c-item {
+    height: 600px;
+    width: 100%;
+  }
+  .bigD .ca-s .c-item .fh3, .bigD .ca-s .c-item .sh3 {
+    position: absolute;
+    top: 2%;
+    font-size: 40px;
+  }
+  .bigD .ca-s .c-item .fh3 {
+    position: absolute;
+    left: 5%;
+    color: white;
+  }
+  .bigD .ca-s .c-item .sh3 {
+    position: absolute;
+    right: 5%;
+  }
+  .bigD .ca-s .c-item .fh5 {
+    position: absolute;
+    bottom: 8%;
+    left: 5%;
+    color: white;
+    font-size: 40px;
+  }
+  .bigD .ca-s .c-item .d_stars {
+    width: 45%;
+    height: 45px;
+    opacity: 1;
+    position: absolute;
+    bottom: 9%;
+    left: 45%;
+  }
+  .bigD .ca-s .c-item .d_stars .im_stars {
+    width: 45px;
+    height: 45px;
+  }
+  .bigD .ca-s .c-item .pric, .bigD .ca-s .c-item .secPr {
+    position: absolute;
+    bottom: 0.5%;
+    font-size: 35px;
+  }
+  .bigD .ca-s .c-item .pric {
+    position: absolute;
+    left: 5%;
+    font-weight: bold;
+    color: white;
+  }
+  .bigD .ca-s .c-item .secPr {
+    position: absolute;
+    right: 5%;
+    font-weight: bold;
+    color: white;
+  }
+  .bigD .ca-s .c-img {
+    height: 70%;
+    width: 70%;
+    position: absolute;
+    top: 12%;
+    left: 15%;
+    border-radius: 15px;
+  }
+  .bigD .ca-s .bt1 {
+    background-color: white;
+    color: blue;
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 42%;
+  }
+  .bigD #noo {
+    display: none;
+  }
+  .father22 {
+    width: 95%;
+    height: 510px;
+    position: relative;
+    left: 2.5%;
+    background-color: white;
+    border-radius: 15px;
+    border: 4px solid #120052;
+  }
+  .father22 .father2 {
+    width: 62%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    background-color: white;
+    border-radius: 15px;
+    border: 0px;
+  }
+  .father22 .father2 .im2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+  }
+  .father22 .im3 {
+    width: 38%;
+    height: 100%;
+    border-radius: 15px;
+    position: absolute;
+    left: 0%;
+  }
+  .bigDD {
+    width: 80%;
+    height: 1450px;
+    background-color: #120052;
+    border-radius: 15px;
+    position: relative;
+    left: 10%;
+  }
+  .bigDD .o1 {
+    font-size: 35px;
+  }
+  .bigDD .la {
+    font-size: 32px;
+  }
+  .bigDD .one {
+    width: 80%;
+    height: 885px;
+    background-color: white;
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    border-radius: 15px;
+    border: 4px solid #120052;
+  }
+  .bigDD .one .onn, .bigDD .one .onn1 {
+    position: absolute;
+    top: 3%;
+    font-size: 40px;
+  }
+  .bigDD .one .onn {
+    position: absolute;
+    left: 5%;
+  }
+  .bigDD .one .onn1 {
+    position: absolute;
+    right: 5%;
+  }
+  .bigDD .one .on1 {
+    position: absolute;
+    top: 10%;
+  }
+  .bigDD .one .on2 {
+    position: absolute;
+    top: 40%;
+    background-color: white;
+    width: 100%;
+    height: 30%;
+  }
+  .bigDD .one .on2 .oim1 {
+    width: 55%;
+    height: 100%;
+  }
+  .bigDD .one .on2 .o1 {
+    position: absolute;
+    right: 8%;
+    top: 10%;
+  }
+  .bigDD .one .on2 .vsm {
+    width: 25%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 8%;
+    top: 35%;
+  }
+  .bigDD .one .on2 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on2 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 18%;
+  }
+  .bigDD .one .on3 {
+    position: absolute;
+    bottom: 0%;
+    background-color: white;
+    width: 100%;
+    height: 30%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+  .bigDD .one .on3 .oim1 {
+    width: 55%;
+    height: 100%;
+    border-bottom-left-radius: 15px;
+  }
+  .bigDD .one .on3 .o1 {
+    position: absolute;
+    right: 8%;
+    top: 10%;
+  }
+  .bigDD .one .on3 .vsm {
+    width: 25%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 8%;
+    top: 35%;
+  }
+  .bigDD .one .on3 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on3 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 18%;
+  }
+  .bigDD .one .on1 {
+    width: 100%;
+    height: 30%;
+    background-color: white;
+  }
+  .bigDD .one .on1 .oim1 {
+    width: 55%;
+    height: 100%;
+  }
+  .bigDD .one .on1 .o1 {
+    position: absolute;
+    right: 8%;
+    top: 10%;
+  }
+  .bigDD .one .on1 .vsm {
+    width: 25%;
+    height: 30px;
+    opacity: 1;
+    position: absolute;
+    right: 8%;
+    top: 35%;
+  }
+  .bigDD .one .on1 .vsm .imgo {
+    width: 30px;
+    height: 30px;
+  }
+  .bigDD .one .on1 .la {
+    position: absolute;
+    bottom: 5%;
+    right: 18%;
+  }
+  .bigDD .bigS {
+    width: 100%;
+    height: 550px;
+    position: absolute;
+    top: 890px;
+    background-color: #120052;
+  }
+  .bigDD .bigS .box {
+    width: 32%;
+    height: 100%;
+    position: absolute;
+    top: 2%;
+  }
+  .bigDD .bigS .box1 {
+    position: absolute;
+    left: 0%;
+  }
+  .bigDD .bigS .box1 .b31, .bigDD .bigS .box1 .b32, .bigDD .bigS .box1 .b33, .bigDD .bigS .box1 .b35, .bigDD .bigS .box1 .b36 {
+    display: none;
+  }
+  .bigDD .bigS .box1 .img1 {
+    width: 100%;
+    height: 68%;
+    position: absolute;
+    top: 12%;
+  }
+  .bigDD .bigS .box1 .b34 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 8%;
+  }
+  .bigDD .bigS .box1 .b34 .imgb {
+    width: 50px;
+    height: 50px;
+  }
+  .bigDD .bigS .box2 {
+    position: absolute;
+    left: 34%;
+  }
+  .bigDD .bigS .box2 .b31, .bigDD .bigS .box2 .b32, .bigDD .bigS .box2 .b33, .bigDD .bigS .box2 .b35, .bigDD .bigS .box2 .b36 {
+    display: none;
+  }
+  .bigDD .bigS .box2 .img1 {
+    width: 100%;
+    height: 68%;
+    position: absolute;
+    top: 12%;
+  }
+  .bigDD .bigS .box2 .b34 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 8%;
+  }
+  .bigDD .bigS .box2 .b34 .imgb {
+    width: 50px;
+    height: 50px;
+  }
+  .bigDD .bigS .box3 {
+    position: absolute;
+    right: 0%;
+  }
+  .bigDD .bigS .box3 .b31, .bigDD .bigS .box3 .b32, .bigDD .bigS .box3 .b33, .bigDD .bigS .box3 .b35, .bigDD .bigS .box3 .b36 {
+    display: none;
+  }
+  .bigDD .bigS .box3 .img1 {
+    width: 100%;
+    height: 68%;
+    position: absolute;
+    top: 12%;
+  }
+  .bigDD .bigS .box3 .b34 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 8%;
+  }
+  .bigDD .bigS .box3 .b34 .imgb {
+    width: 50px;
+    height: 50px;
+  }
+  .ffinal {
+    width: 100%;
+    height: 500px;
+    background-color: #120052;
+    position: relative;
+    color: white;
+  }
+  .ffinal .ff1 {
+    width: 100%;
+    height: 260px;
+    position: absolute;
+    top: 0px;
+    border-bottom: 2px solid white;
+  }
+  .ffinal .ff1 .ff11 {
+    width: 50%;
+    height: 260px;
+    position: absolute;
+    left: 0px;
+    border-right: 3px solid white;
+  }
+  .ffinal .ff1 .ff11 .prf1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .ffinal .ff1 .ff11 .prf1 .sf1 {
+    color: yellowgreen;
+  }
+  .ffinal .ff1 .ff11 .sf2 {
+    font-size: 20px;
+  }
+  .ffinal .ff1 .ff11 .imf1, .ffinal .ff1 .ff11 .imf2, .ffinal .ff1 .ff11 .imf3 {
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    background-color: white;
+    border-radius: 10px;
+  }
+  .ffinal .ff1 .ff11 .imf1 {
+    position: absolute;
+    left: 30%;
+  }
+  .ffinal .ff1 .ff11 .imf2 {
+    position: absolute;
+    left: 45%;
+  }
+  .ffinal .ff1 .ff11 .imf3 {
+    position: absolute;
+    left: 60%;
+  }
+  .ffinal .ff1 .ff12 {
+    width: 50%;
+    height: 260px;
+    position: absolute;
+    right: 0px;
+  }
+  .ffinal .ff1 .ff12 .hf1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .ffinal .ff1 .ff12 .uf1 {
+    list-style: none;
+    position: absolute;
+    left: 32%;
+    font-size: 20px;
+  }
+  .ffinal .ff2 {
+    width: 100%;
+    height: 260px;
+    position: absolute;
+    top: 265px;
+  }
+  .ffinal .ff2 .ff13 {
+    width: 50%;
+    height: 260px;
+    position: absolute;
+    left: 0px;
+    border-right: 3px solid white;
+  }
+  .ffinal .ff2 .ff13 .hf1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .ffinal .ff2 .ff13 .uf2 {
+    list-style: none;
+    position: absolute;
+    left: 25%;
+    font-size: 20px;
+  }
+  .ffinal .ff2 .ff14 {
+    width: 50%;
+    height: 245px;
+    position: absolute;
+    right: 0px;
+  }
+  .ffinal .ff2 .ff14 .hf1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .ffinal .ff2 .ff14 .prf2 {
+    font-size: 20px;
+  }
+}/*# sourceMappingURL=style.css.map */
