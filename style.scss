@@ -826,8 +826,8 @@
         }
         .in{
             position: absolute;
-            left: 33%;
-            top: 52px;
+            left: 5%;
+            top: 60px;
             width: 48%;
             height: 35%;
             border-radius: 10px;
@@ -844,7 +844,7 @@
             border-radius: 10px;
         }
         .u1{
-            position: absolute;
+            /*position: absolute;
             left: 2%;
             bottom: -15%;
             .l1{
@@ -853,7 +853,8 @@
                 color: white;
                 font-family: weight;
                 font-size: 20px;
-        }
+        }*/
+            display: none;
         }
     }
     .father{
