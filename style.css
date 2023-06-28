@@ -825,8 +825,8 @@
   }
   .fd .in {
     position: absolute;
-    left: 33%;
-    top: 52px;
+    left: 5%;
+    top: 60px;
     width: 48%;
     height: 35%;
     border-radius: 10px;
@@ -843,16 +843,18 @@
     border-radius: 10px;
   }
   .fd .u1 {
-    position: absolute;
+    /*position: absolute;
     left: 2%;
-    bottom: -15%;
+    bottom: -15%;*/
+    display: none;
   }
   .fd .u1 .l1 {
-    display: inline-block;
+    /*display: inline-block;
     padding: 8px;
     color: white;
     font-family: weight;
-    font-size: 20px;
+    font-size: 20px;*/
+    display: none;
   }
   .father {
     width: 95%;
