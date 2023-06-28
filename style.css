@@ -939,16 +939,16 @@
     font-size: 40px;
   }
   .bigD .ca-s .c-item .d_stars {
-    width: 45%;
+    width: 48%;
     height: 45px;
     opacity: 1;
     position: absolute;
-    bottom: 9%;
+    bottom: 10%;
     left: 45%;
   }
   .bigD .ca-s .c-item .d_stars .im_stars {
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
   }
   .bigD .ca-s .c-item .pric, .bigD .ca-s .c-item .secPr {
     position: absolute;
@@ -968,11 +968,11 @@
     color: white;
   }
   .bigD .ca-s .c-img {
-    height: 70%;
-    width: 70%;
+    height: 54%;
+    width: 88%;
     position: absolute;
     top: 12%;
-    left: 15%;
+    left: 6%;
     border-radius: 15px;
   }
   .bigD .ca-s .bt1 {
@@ -992,7 +992,7 @@
     }
   .father22 {
     width: 95%;
-    height: 510px;
+    height: 410px;
     position: relative;
     left: 2.5%;
     background-color: white;
@@ -1022,7 +1022,7 @@
   }
   .bigDD {
     width: 80%;
-    height: 1450px;
+    height: 1090px;
     background-color: #120052;
     border-radius: 15px;
     position: relative;
@@ -1074,25 +1074,25 @@
   }
   .bigDD .one .on2 .o1 {
     position: absolute;
-    right: 8%;
+    right: 3%;
     top: 10%;
   }
   .bigDD .one .on2 .vsm {
-    width: 25%;
+     width: 45%;
     height: 30px;
     opacity: 1;
     position: absolute;
-    right: 8%;
+    right: 2%;
     top: 35%;
   }
   .bigDD .one .on2 .vsm .imgo {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
   }
   .bigDD .one .on2 .la {
     position: absolute;
-    bottom: 5%;
-    right: 18%;
+    bottom: 25%;
+    right: 12%;
   }
   .bigDD .one .on3 {
     position: absolute;
@@ -1110,25 +1110,25 @@
   }
   .bigDD .one .on3 .o1 {
     position: absolute;
-    right: 8%;
+    right: 3%;
     top: 10%;
   }
   .bigDD .one .on3 .vsm {
-    width: 25%;
+     width: 45%;
     height: 30px;
     opacity: 1;
     position: absolute;
-    right: 8%;
+    right: 2%;
     top: 35%;
   }
   .bigDD .one .on3 .vsm .imgo {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
   }
   .bigDD .one .on3 .la {
     position: absolute;
-    bottom: 5%;
-    right: 18%;
+    bottom: 25%;
+    right: 12%;
   }
   .bigDD .one .on1 {
     width: 100%;
@@ -1141,29 +1141,29 @@
   }
   .bigDD .one .on1 .o1 {
     position: absolute;
-    right: 8%;
+    right: 3%;
     top: 10%;
   }
   .bigDD .one .on1 .vsm {
-    width: 25%;
+    width: 45%;
     height: 30px;
     opacity: 1;
     position: absolute;
-    right: 8%;
+    right: 2%;
     top: 35%;
   }
   .bigDD .one .on1 .vsm .imgo {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
   }
   .bigDD .one .on1 .la {
     position: absolute;
-    bottom: 5%;
-    right: 18%;
+    bottom: 25%;
+    right: 12%;
   }
   .bigDD .bigS {
     width: 100%;
-    height: 550px;
+    height: 200px;
     position: absolute;
     top: 890px;
     background-color: #120052;
@@ -1183,7 +1183,7 @@
   }
   .bigDD .bigS .box1 .img1 {
     width: 100%;
-    height: 68%;
+    height: 50%;
     position: absolute;
     top: 12%;
   }
@@ -1206,7 +1206,7 @@
   }
   .bigDD .bigS .box2 .img1 {
     width: 100%;
-    height: 68%;
+    height: 50%;
     position: absolute;
     top: 12%;
   }
@@ -1229,7 +1229,7 @@
   }
   .bigDD .bigS .box3 .img1 {
     width: 100%;
-    height: 68%;
+    height: 50%;
     position: absolute;
     top: 12%;
   }
@@ -1240,8 +1240,8 @@
     bottom: 8%;
   }
   .bigDD .bigS .box3 .b34 .imgb {
-    width: 50px;
-    height: 50px;
+    width: 18px;
+    height: 18px;
   }
   .ffinal {
     width: 100%;
@@ -1272,7 +1272,10 @@
     color: yellowgreen;
   }
   .ffinal .ff1 .ff11 .sf2 {
-    font-size: 20px;
+    font-size: 16px;
+    position: absolute;
+    top: 30%;
+    left: 5%;
   }
   .ffinal .ff1 .ff11 .imf1, .ffinal .ff1 .ff11 .imf2, .ffinal .ff1 .ff11 .imf3 {
     width: 38px;
@@ -1285,7 +1288,7 @@
   }
   .ffinal .ff1 .ff11 .imf1 {
     position: absolute;
-    left: 30%;
+    left: 20%;
   }
   .ffinal .ff1 .ff11 .imf2 {
     position: absolute;
@@ -1293,7 +1296,7 @@
   }
   .ffinal .ff1 .ff11 .imf3 {
     position: absolute;
-    left: 60%;
+    left:70%;
   }
   .ffinal .ff1 .ff12 {
     width: 50%;
@@ -1309,7 +1312,7 @@
     list-style: none;
     position: absolute;
     left: 32%;
-    font-size: 20px;
+    font-size: 16px;
   }
   .ffinal .ff2 {
     width: 100%;
@@ -1331,8 +1334,8 @@
   .ffinal .ff2 .ff13 .uf2 {
     list-style: none;
     position: absolute;
-    left: 25%;
-    font-size: 20px;
+    left: 5%;
+    font-size: 16px;
   }
   .ffinal .ff2 .ff14 {
     width: 50%;
@@ -1345,6 +1348,9 @@
     font-size: 30px;
   }
   .ffinal .ff2 .ff14 .prf2 {
-    font-size: 20px;
+    font-size: 16px;
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
   }
 }/*# sourceMappingURL=style.css.map */
