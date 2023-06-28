@@ -885,23 +885,23 @@
   }
   .father .fh6 {
     position: absolute;
-    top: 53%;
+    top: 50%;
     left: 7%;
     color: black;
     font-weight: bold;
     font-size: 25px;
   }
   .father .b1 {
-    width: 40;
+    width: 28%;
     height: 10%;
     position: absolute;
-    top: 72%;
+    top: 75%;
     left: 7%;
     font-size: 23px;
   }
   .bigD {
     width: 80%;
-    height: 600px;
+    height: 500px;
     background-color: #120052;
     border-radius: 15px;
     position: relative;
@@ -914,26 +914,26 @@
     border-radius: 15px;
   }
   .bigD .ca-s .c-item {
-    height: 600px;
+    height: 500px;
     width: 100%;
   }
   .bigD .ca-s .c-item .fh3, .bigD .ca-s .c-item .sh3 {
     position: absolute;
     top: 2%;
-    font-size: 40px;
+    font-size: 35px;
   }
   .bigD .ca-s .c-item .fh3 {
     position: absolute;
-    left: 5%;
+    left: 2%;
     color: white;
   }
   .bigD .ca-s .c-item .sh3 {
     position: absolute;
-    right: 5%;
+    right: 2%;
   }
   .bigD .ca-s .c-item .fh5 {
     position: absolute;
-    bottom: 8%;
+    bottom: 18%;
     left: 5%;
     color: white;
     font-size: 40px;
@@ -987,9 +987,9 @@
   .bigD #noo {
     display: none;
   }
-  .finall{
-        display: none;
-    }
+  .finall {
+    display: none;
+  }
   .father22 {
     width: 95%;
     height: 410px;
@@ -1029,33 +1029,33 @@
     left: 10%;
   }
   .bigDD .o1 {
-    font-size: 35px;
+    font-size: 32px;
   }
   .bigDD .la {
     font-size: 32px;
   }
   .bigDD .one {
-    width: 80%;
+    width: 88%;
     height: 885px;
     background-color: white;
     position: absolute;
     top: 2%;
-    left: 10%;
+    left: 6%;
     border-radius: 15px;
     border: 4px solid #120052;
   }
   .bigDD .one .onn, .bigDD .one .onn1 {
     position: absolute;
     top: 3%;
-    font-size: 40px;
+    font-size: 32px;
   }
   .bigDD .one .onn {
     position: absolute;
-    left: 5%;
+    left: 2%;
   }
   .bigDD .one .onn1 {
     position: absolute;
-    right: 5%;
+    right: 2%;
   }
   .bigDD .one .on1 {
     position: absolute;
@@ -1078,7 +1078,7 @@
     top: 10%;
   }
   .bigDD .one .on2 .vsm {
-     width: 45%;
+    width: 45%;
     height: 30px;
     opacity: 1;
     position: absolute;
@@ -1114,7 +1114,7 @@
     top: 10%;
   }
   .bigDD .one .on3 .vsm {
-     width: 45%;
+    width: 45%;
     height: 30px;
     opacity: 1;
     position: absolute;
@@ -1172,7 +1172,7 @@
     width: 32%;
     height: 100%;
     position: absolute;
-    top: 2%;
+    top: -7%;
   }
   .bigDD .bigS .box1 {
     position: absolute;
@@ -1194,8 +1194,8 @@
     bottom: 8%;
   }
   .bigDD .bigS .box1 .b34 .imgb {
-    width: 50px;
-    height: 50px;
+    width: 18px;
+    height: 18px;
   }
   .bigDD .bigS .box2 {
     position: absolute;
@@ -1217,8 +1217,8 @@
     bottom: 8%;
   }
   .bigDD .bigS .box2 .b34 .imgb {
-    width: 50px;
-    height: 50px;
+    width: 18px;
+    height: 18px;
   }
   .bigDD .bigS .box3 {
     position: absolute;
@@ -1296,7 +1296,7 @@
   }
   .ffinal .ff1 .ff11 .imf3 {
     position: absolute;
-    left:70%;
+    left: 70%;
   }
   .ffinal .ff1 .ff12 {
     width: 50%;
